@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jstl-api-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Environment_Development/Environment_Server/apache-tomcat-7.0.56/lib/jstl-api-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
